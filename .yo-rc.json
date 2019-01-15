@@ -2,7 +2,8 @@
   "generator-jhipster": {
     "promptValues": {
       "packageName": "com.lena.ms.gateway",
-      "nativeLanguage": "en"
+      "nativeLanguage": "en",
+      "microservicePath": "../lena-api"
     },
     "jhipsterVersion": "5.7.2",
     "applicationType": "gateway",

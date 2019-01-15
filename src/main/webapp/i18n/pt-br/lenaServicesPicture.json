@@ -1,0 +1,28 @@
+{
+  "lenaGatewayApp": {
+    "lenaServicesPicture": {
+      "home": {
+        "title": "Pictures",
+        "createLabel": "Criar novo Picture",
+        "createOrEditLabel": "Criar ou editar Picture",
+        "search": "Pesquisar por Picture"
+      },
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Picture {{ id }}?"
+      },
+      "detail": {
+        "title": "Picture"
+      },
+      "code": "Code",
+      "path": "Path",
+      "pictureType": "Picture Type"
+    }
+  },
+  "lenaServicesApp": {
+    "lenaServicesPicture": {
+      "created": "Um novo Picture foi criado com o identificador {{ param }}",
+      "updated": "Um Picture foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Picture foi deletado com o identificador {{ param }}"
+    }
+  }
+}

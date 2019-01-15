@@ -1,0 +1,28 @@
+{
+  "lenaGatewayApp": {
+    "lenaServicesPictureType": {
+      "home": {
+        "title": "PictureTypes",
+        "createLabel": "Créer un nouveau Picture Type",
+        "createOrEditLabel": "Créer ou éditer un Picture Type",
+        "search": "Recherche pour Picture Type"
+      },
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Picture Type {{ id }} ?"
+      },
+      "detail": {
+        "title": "Picture Type"
+      },
+      "code": "Code",
+      "description": "Description",
+      "picture": "Picture"
+    }
+  },
+  "lenaServicesApp": {
+    "lenaServicesPictureType": {
+      "created": "Un nouveau Picture Type a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Picture Type avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Picture Type avec l'identifiant {{ param }} a été supprimé"
+    }
+  }
+}
